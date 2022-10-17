@@ -1081,7 +1081,7 @@ a {
 }
 .cid-tgQExNN10U .dropdown-menu,
 .cid-tgQExNN10U .navbar.opened {
-  background: #ffffff !important;
+  background: #000000 !important;
 }
 .cid-tgQExNN10U .nav-item:focus,
 .cid-tgQExNN10U .nav-link:focus {
@@ -1115,7 +1115,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: #000000;
 }
 .cid-tgQExNN10U .navbar.opened {
   transition: all 0.3s;
@@ -1265,7 +1265,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tgQExNN10U .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-tgQExNN10U .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
