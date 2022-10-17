@@ -707,7 +707,7 @@ a {
 .cid-tkz4TtLUxr {
   padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #e9eaec;
+  background-color: #000000;
 }
 .cid-tkz4TtLUxr .mbr-fallback-image.disabled {
   display: none;
@@ -739,9 +739,11 @@ a {
 }
 .cid-tkz4TtLUxr .mbr-section-title {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tkz4TtLUxr .mbr-text {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tgQAAcVmpg {
   padding-top: 3rem;
