@@ -833,6 +833,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  display: none;
 }
 .cid-tgQAAcVmpg .embla__button:disabled {
   cursor: default;
@@ -917,7 +918,7 @@ a {
 }
 .cid-tkzahGNInA {
   padding-top: 3rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
   background-color: #fafafa;
 }
 .cid-tkzahGNInA .mbr-fallback-image.disabled {
@@ -992,8 +993,8 @@ a {
 }
 .cid-tkzcqRw9VU {
   padding-top: 2rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+  padding-bottom: 2rem;
+  background-color: #000000;
 }
 .cid-tkzcqRw9VU .mbr-fallback-image.disabled {
   display: none;
@@ -1262,6 +1263,9 @@ a {
 }
 .cid-tkzcqRw9VU H6 {
   text-align: center;
+}
+.cid-tkzcqRw9VU H3 {
+  color: #ffffff;
 }
 .cid-tgQExNN10U {
   z-index: 1000;
