@@ -833,7 +833,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  display: none;
 }
 .cid-tgQAAcVmpg .embla__button:disabled {
   cursor: default;
